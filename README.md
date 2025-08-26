@@ -42,6 +42,8 @@ Alarm-App/
 
 │── README.md # Documentation
 
+---
+
 ## ▶️ How to Run
 
 1. Clone the repository or download the source code:
@@ -54,11 +56,15 @@ Alarm-App/
 
 4. Keep the browser tab open for alarms to trigger.
 
+---
+
 ## 📌 Notes
 
 -The alarm will only ring if the page is open and active in the browser.
 
 -Make sure you have an alarm.mp3 file in the project root.
+
+---
 
 ## 👨‍💻 Author
 
